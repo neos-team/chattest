@@ -1,0 +1,13 @@
+.image{
+    width: 25%;
+    border-radius: 60px;
+    
+    
+}
+.userName{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+    
+}
+.message-box{
+    width: 50%;
+}

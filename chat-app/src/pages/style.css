@@ -1,0 +1,19 @@
+.row{
+    margin: auto;
+}
+.sidebar{
+    background-color: rgb(88, 118, 235);
+    align-items: center;
+}
+.desen{
+    width: 200px;
+    height: 100;
+    background-color: rgba(7, 7, 174, 0.683);
+}
+.title{
+    font-family: 'Times New Roman', Times, serif;
+}
+.card{
+    width: 85%;
+    padding: 5px;
+}
