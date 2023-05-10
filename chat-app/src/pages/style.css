@@ -40,3 +40,22 @@
     background-color: rgb(176, 173, 173);
     color:rgb(88, 118, 235) ;
 }
+.form-login{
+    background-color: rgb(184, 181, 181);
+    width: 60%;
+    margin: auto;
+    margin-top: 50px;
+    height: auto;
+    text-align: center;
+    padding: 15px;
+    border-radius: 30px;
+
+}
+.forgot-pass{
+    text-align: end;
+}
+.title-login{
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgba(18, 69, 223, 0.787);
+}
