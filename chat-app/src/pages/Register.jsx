@@ -27,6 +27,12 @@ export default function Register() {
             
             </div>
         </div>
+        <div className='community mt-5'>
+          <h4>Sohbet Odasına Katıl</h4>
+          <div className='buton'>
+         <Link to='/ChatChannel'><button className='btn-register mt-4'>Katıl</button></Link> 
+      </div>
+        </div>
       </div>
   )
 }

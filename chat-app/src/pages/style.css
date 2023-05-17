@@ -2,11 +2,11 @@
     margin: auto;
 }
 .sidebar{
-    background-color: rgb(88, 118, 235);
+    background-color: #3FCA66;
     align-items: center;
-    height: 700px;
-    margin-top: 30px;
-    border-radius: 30px;
+    height: 789px;
+    
+   
 }
 
 .title{
@@ -26,36 +26,43 @@
     margin-top: 20px;
 }
 .btn-register{
-    width: 40%;
+    width: 50%;
     padding-top: 5px;
     padding-bottom: 5px;
     border-radius: 20px;
     border: 1px;
-    background-color:  rgb(88, 118, 235);
+    background-color: #3FCA66;
     color: white;
     font-weight: bold;
     letter-spacing: 1px;
 }
 .btn-register:hover{
-    background-color: rgb(176, 173, 173);
-    color:rgb(88, 118, 235) ;
+    color: #3FCA66;
+    background-color: white;
 }
-.form-login{
-    background-color: rgb(184, 181, 181);
-    width: 60%;
-    margin: auto;
-    margin-top: 50px;
-    height: auto;
-    text-align: center;
-    padding: 15px;
-    border-radius: 30px;
 
-}
+
 .forgot-pass{
     text-align: end;
 }
 .title-login{
     font-weight: bold;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: rgba(18, 69, 223, 0.787);
+    color: rgba(158, 166, 191, 0.787);
+}
+.image{
+    margin-left: 55px;
+    margin-top: 20px;
+}
+.form-login{
+    margin-top: 150px;
+}
+.community{
+    width: 500px;
+    height: 120px;
+    padding: 10px;
+    border-radius: 20px;
+    margin-left: 70px;
+    background-color:rgb(204, 249, 204);
+
 }
